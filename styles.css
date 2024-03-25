@@ -1,0 +1,38 @@
+body {
+    background-color: #d4f5cd; /* Light green background */
+    color: green; /* Green text color */
+  }
+  
+  header, footer {
+    background-color: #183028; /* Dark green background */
+    color: #d4f5cd; /* Light green text color */
+    padding: 10px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  section {
+    margin-bottom: 30px;
+  }
+  
+  article {
+    margin-bottom: 20px;
+  }
+  
+  footer {
+    text-align: center;
+  }
+  
