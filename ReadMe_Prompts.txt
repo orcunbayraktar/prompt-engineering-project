@@ -1,5 +1,15 @@
 ------------------Site için------------------
-Merhaba kod yazma yeteneklerin ihtiyacım var. Frontend developer görevi üstlenmeni istiyorum. Mystical plant goddess portfolio sitesi yapacağız. Kullanmanı istediğim teknolojiler: HTML , CSS , JavaScript. HTML,CSS ,Javascript dosyalarını bana bağlı birbirine şekilde yaz. Site mobil uyumlu, semantic etiketlerden oluşsun ve son sürüm Bootstrap CDN'lerini kullansın. Fotoğraflar 3x3 grid yapısında olsun ve script.js dosyasında bu fotoğrafları "images" klasörü altından eklesin. Websitemde bulunmasını istediğim etiketler (header, main, nav, section, article, aside, footer) şeklinde tasarıma ekle. Bana bunları adım adım dosyaları birbirine bağlı vermen gerekiyor. İçerikleri hepsini kendin doldur. Header ve footer kısmının arka plan rengi koyu yeşil ve sitenin tüm yazıları yeşil renkte olsun. Sitenin arka plan renkgide açık yeşil olsun. Gereksinimleri anladıysan bana oluşturduğun projeyi html, css, js kodları ayrı ayrı verir misin?
+
+ChatGPT 3.5 kullanılarak oluşturuldu - prompt:
+
+Merhaba kod yazma yeteneklerin ihtiyacım var. Frontend developer görevi üstlenmeni istiyorum. Mystical plant goddess portfolio sitesi yapacağız. 
+Kullanmanı istediğim teknolojiler: HTML , CSS , JavaScript. HTML,CSS ,Javascript dosyalarını bana bağlı birbirine şekilde yaz. 
+Site mobil uyumlu, semantic etiketlerden oluşsun ve son sürüm Bootstrap CDN'lerini kullansın. 
+Fotoğraflar 3x3 grid yapısında olsun ve script.js dosyasında bu fotoğrafları "images" klasörü altından eklesin. 
+Websitemde bulunmasını istediğim etiketler (header, main, nav, section, article, aside, footer) şeklinde tasarıma ekle. 
+Bana bunları adım adım dosyaları birbirine bağlı vermen gerekiyor. İçerikleri hepsini kendin doldur. 
+Header ve footer kısmının arka plan rengi koyu yeşil ve sitenin tüm yazıları yeşil renkte olsun. 
+Sitenin arka plan renkgide açık yeşil olsun. Gereksinimleri anladıysan bana oluşturduğun projeyi html, css, js kodları ayrı ayrı verir misin?
 
 ------------------Foto galeri için------------------
 
@@ -7,7 +17,7 @@ site:
 https://playground.com/create?
 
 ----------------------
-prompt 1:
+ChatGPT 3.5 kullanılarak oluşturuldu - prompt 1:
 doğaüstü mitolojileri kullanarak bir foto galeri oluşturmak istiyorum
 
 dünyada en çok bilinen 9 mitolojisini göz önüne alarak
@@ -17,7 +27,7 @@ oluşturken uygulaman kriterler
 2-her birinin duygu durumu değişik olacak şekilde 
 bana 9 tane farklı farklı karakterin hangi mitoloji kullandığı,karakterlerin dış gödünüşlerini , duygu durumunlarınıkarakter olarak yazar mısın?
 
-prompt 2:
+ChatGPT 3.5 kullanılarak oluşturuldu - prompt 2:
 ve bu varlıklar bitki olacak şekilde tekrardan kurgular mısın
 ----------------------
 Cevap:
