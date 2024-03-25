@@ -16,6 +16,8 @@ Sitenin arka plan renkgide açık yeşil olsun. Gereksinimleri anladıysan bana 
 site:
 https://playground.com/create?
 
+ChatGPT 3.5 promptlarıyla text tabanlı oluşturduğum karakterleri playground kullanarak resme dönüştürdüm. 
+
 ----------------------
 ChatGPT 3.5 kullanılarak oluşturuldu - prompt 1:
 doğaüstü mitolojileri kullanarak bir foto galeri oluşturmak istiyorum
